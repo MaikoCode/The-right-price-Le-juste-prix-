@@ -1,1 +1,1 @@
-# The-right-price-Le-juste-prix-
+It's just a little game that beginners are used to coding
